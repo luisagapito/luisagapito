@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an avid learner by nature and a data engineer by profession
+- 👋 Hi, I’m an avid learner by nature and a Data Engineer by profession
 - 🌱 I’m currently learning on <a href="https://www.simplilearn.com/big-data-engineer-masters-certification-training-course" target="_blank">Big Data Engineer Master's Program </a>
 - 💞️ I’m looking to collaborate on Data Projects!!
 - 💬 Ask me about anything and I am always ready to help at my best
